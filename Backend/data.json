@@ -1,0 +1,27 @@
+[
+{  
+   "Firstname" :"amith",
+   "Lastname" :"mishra",
+   "Email" :"amith@gmail.com",
+   "Phone no" :"9807693397",
+   "Plant name" :"orchid",
+   "Plant description" :"monocotlyledon flowering plants"
+},
+{
+   "Firstname" :"Hamsa",
+   "Lastname" :"vani",
+   "Email" :"hamsavani@gmail.com",
+   "Phone no" :"9564879495",
+   "Plant name" :"Poppy",
+   "Plant description" :"produce showy flowers and natural sedative"
+},
+{
+    
+   "Firstname" :"kavitha",
+   "Lastname" :"H M",
+   "Email" :"kavitha@gmail.com",
+   "Phone no" :"9567382921",
+   "Plant name" :"Fiddleleaf fig",
+   "Plant description" :"great decor for boring corner grown in tropics"
+}
+]
